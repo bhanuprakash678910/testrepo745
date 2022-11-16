@@ -1,6 +1,4 @@
 FROM
 RUN
 ENV
-WORKDIR
-Entrypoint
-CMD
+
